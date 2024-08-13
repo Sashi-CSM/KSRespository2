@@ -32,4 +32,23 @@
       <testCaseId>Test Cases/Web/Appointment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>2880d457-adb9-498e-bad2-5e5093e37bf4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Verify Login CURA System Successfully - Mobile Browsers - Copy</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>39dd0e75-0ad9-46c4-bf4b-fb8d79558928</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c773437e-20a3-4d3d-8c73-189880fbb42d</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>
